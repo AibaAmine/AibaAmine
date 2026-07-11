@@ -2,7 +2,7 @@
 
 # Aiba Amine
 
-**Backend-Focused Software Engineer** · 3rd-Year Software Engineering @ USTHB, Algiers
+**Software Engineer** · 3rd-Year Software Engineering @ USTHB, Algiers
 
 </div>
 
@@ -37,7 +37,7 @@ Software engineering student at USTHB, Algiers, focused on backend development �
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Frontend (Basics)**
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -61,12 +61,10 @@ Software engineering student at USTHB, Algiers, focused on backend development �
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AibaAmine&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AibaAmine&layout=compact&theme=default)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AibaAmine&theme=default)
 
 ---
 
 ## How I Work
 
-Focused on system design — API design, database schema design, and scalability trade-offs. Documentation is part of the job, not an afterthought.
+Focused on system design — API design, database schema design, and scalability trade-offs.
