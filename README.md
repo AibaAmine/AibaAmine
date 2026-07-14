@@ -2,7 +2,7 @@
 
 # Aiba Amine
 
-**Software Engineer** Â· 3rd-Year Software Engineering @ USTHB, Algiers
+**Software Engineer**
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## About
 
-Software engineering student at USTHB, Algiers, focused on backend development â€” API design, database architecture, and the systems underneath an application.
+Software engineering student at USTHB, Algiers (4th year), focused on backend development â€” API design, database architecture, and the systems underneath an application.
 
 ---
 
@@ -51,7 +51,9 @@ Software engineering student at USTHB, Algiers, focused on backend development â
 ![Linux](https://img.shields.io/badge/Linux%2FWSL2-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-**Currently Exploring**
+---
+
+## Currently Exploring
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-grey?style=flat)
@@ -61,7 +63,9 @@ Software engineering student at USTHB, Algiers, focused on backend development â
 
 ## GitHub Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AibaAmine&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=amineaiba&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amineaiba&layout=compact&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=amineaiba&theme=default)
 
 ---
 
