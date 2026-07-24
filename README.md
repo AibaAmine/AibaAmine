@@ -63,8 +63,8 @@ Software engineering student at USTHB, Algiers (4th year), focused on backend de
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=amineaiba&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amineaiba&layout=compact&theme=default)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amineaiba&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amineaiba&layout=compact&theme=default)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=amineaiba&theme=default)
 
 ---
